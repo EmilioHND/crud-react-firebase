@@ -2,6 +2,7 @@
 import firebase from 'firebase/app'
 import 'firebase/firestore'
 
+//Contraseña
 var firebaseConfig = {
     apiKey: "AIzaSyCE2XESBFdmRAtmSTR7BU23xOqf8eskqQE",
     authDomain: "crud-react-firebase-a6793.firebaseapp.com",
