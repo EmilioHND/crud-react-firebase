@@ -14,8 +14,8 @@ const LinkForm = () => {
       </Form>
 
       <Button variant="success">Guardar</Button>
-      <Button className="ml-2" variant="danger">Eliminar</Button>
-      <Button className="ml-2" variant="secondary">Restaurar</Button>
+      <Button className="ml-1" variant="danger">Eliminar</Button>
+      <Button className="ml-1" variant="secondary">Restaurar</Button>
     </Container>
   );
 };
